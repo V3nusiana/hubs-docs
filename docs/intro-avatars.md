@@ -1,5 +1,5 @@
 ---
-id: intro-avatars
+id: V3nusiana
 title: Creating Custom Avatars
 description: An introduction to customizing your avatar with instructions on how to re-skin a robot or box avatar.
 ---
